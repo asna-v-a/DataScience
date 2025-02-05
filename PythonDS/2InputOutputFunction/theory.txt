@@ -1,0 +1,8 @@
+Input and Output Functions
+
+Output Function - To print a message in console(where a program shows it's output)
+printf -> c, cout -> c++, print -> python, concole.log -> javascript are some of the output functions
+
+Input Function - To read a value from console from a user
+scanf -> c, cin -> c++, input() -> python are some of input functions
+

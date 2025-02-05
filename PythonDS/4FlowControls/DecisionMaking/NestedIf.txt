@@ -1,0 +1,24 @@
+Nested if : if statement inside an if statement
+
+syntax
+
+if(condition1):
+    if(condition):
+        statement
+    elif(condition):
+        statement
+    .
+    .
+    .
+    else:
+        statement
+elif(condition2):
+    if(condition):
+        statement
+    elif(condition):
+        statement
+    .
+    .
+    .
+    else:
+        statement
