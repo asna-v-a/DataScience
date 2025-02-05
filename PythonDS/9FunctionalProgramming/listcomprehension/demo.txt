@@ -1,0 +1,25 @@
+#List comprehension
+"""
+Used to reduce codes to single line of code
+
+
+
+3 method: (no such methods, just to understand syntax)
+
+1. Range of elements added into a list
+   Eg: Creating empty list and adding elements to the list
+   syntax: var=[print range]
+
+2. Range of elements added into a list based on one condition
+   Eg : 1-100 even numbers, 1-60 odd numbers....
+   syntax: var=[print range if condition]
+
+3. Range of elements added into a list based on more than one condition
+   Eg: if even number, a condition or odd number ,other condition
+   syntax:var=[print1 if condition1 else print2 range]
+
+   NB: no elif in list comprehension
+   syntax:var=[print1 if condition1 else print2 if condition2...........else printn+1 range]
+
+
+"""

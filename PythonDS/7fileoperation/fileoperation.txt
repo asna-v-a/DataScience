@@ -1,0 +1,15 @@
+# File Operation : Used for storage
+
+"""
+3 types
+
+1.Read : To read data from a file using r
+2.Write : To write data into a file using w
+3.append : To update a file
+
+
+
+Create file reference
+var = open('filepath', 'mode_of_operation')
+
+"""

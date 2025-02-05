@@ -1,0 +1,58 @@
+Functions : Re-usability(Reduce length of code)
+
+"""
+3 steps for a function:
+***********************
+1.Define function name
+2.Function definition
+3.Call function
+
+
+
+
+3 methods to create function:
+*****************************
+
+1.Function without argument and no return type
+2.Function with argument and no return type
+3.Function with argument and return type
+
+
+1.Function without argument and no return type:
+***********************************************
+syntax:
+
+def function_name():
+    function definition
+
+function_name()
+
+
+
+2.Function with argument and no return type:
+***********************************************
+syntax:
+
+def function_name(arg1,arg2,...,argn):
+    function definition
+
+function_name()
+
+
+
+
+3.Function with argument and return type:
+***********************************************
+syntax:
+
+def function_name(arg1,arg2,...,argn):
+    function definition
+    return value  #Return type: can return value on function call
+
+function_name()
+
+"""
+
+
+
+
