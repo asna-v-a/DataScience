@@ -1,4 +1,4 @@
-# DataScience 🚀
+# DataScience 
 
 Welcome to the **DataScience** repository! This repository documents my journey of learning **Data Science** from scratch. I started with **Python**, covering its basics to advanced concepts, and progressively moved to **Exploratory Data Analysis (EDA)** and **Machine Learning (ML)**.
 
