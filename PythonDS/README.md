@@ -4,6 +4,7 @@ The **PythonDS** folder is a structured collection of Python concepts, covering 
 
 ## 📌 Learning Outcomes
 By going through this section, you will:
+
 ✅ Understand Python’s core concepts and syntax.  
 ✅ Learn how to write efficient, reusable, and scalable code.  
 ✅ Gain hands-on experience with functions, file handling, OOP, and functional programming.
