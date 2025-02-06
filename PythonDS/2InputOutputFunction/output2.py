@@ -1,15 +1,18 @@
+# Defining variables for the company name and location
 company_name = 'Luminar Technolab'
 location = 'Kakkanad'
 
+# Print the values of the variables directly
+print(company_name)  # Prints the value stored in company_name
+print(location)  # Prints the value stored in location
 
+# If the variable passing is incorrect (e.g., if the variable is not defined), Python will show an error
+# For example, if you try to print a variable that does not exist like this:
+# print(non_existing_variable)  # This will raise a NameError
 
-#print variable
-print(company_name)
-print(location)
+# Print variables with a statement
+print("Institution name is", company_name)  # Concatenates the text and variable
+print("Institution located at", location)  # Concatenates the text and variable
 
-#If the variable passing is not correct, it shows error
-
-#print variable with statement
-print("Institution name is",company_name)
-print("Institution located at",location)
-print(company_name,"is IT finishing school located at",location)
+# You can also combine multiple variables and strings in one print statement
+print(company_name, "is an IT finishing school located at", location)  # Output with multiple variables in a single print

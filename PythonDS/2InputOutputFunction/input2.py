@@ -1,5 +1,7 @@
+# Taking user input for name, age, and favorite color
 name = input("Enter the name: ")
-age = input("Enter the age: ")
+age = int(input("Enter the age: "))  # Convert age to an integer
 fav_col = input("Enter the favourite colour: ")
 
-print(name,age,"years old likes",fav_col,"colour")
+# Outputting the formatted message
+print(name, age, "years old, likes", fav_col, "colour")
