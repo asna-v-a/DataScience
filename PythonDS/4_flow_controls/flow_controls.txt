@@ -1,0 +1,7 @@
+Flow controls in programming manage the sequence in which statements are executed.
+
+3 types of Flow controls:
+ 1. Decision-making: Allows the program to choose different paths based on conditions using if, else, or elif statements.
+ 2. Looping: Repeats a block of code multiple times using loops like for and while.
+ 3. Jumping: Alters the flow by jumping to different parts of the code using statements like break, continue, and return.
+ 

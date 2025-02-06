@@ -1,17 +1,8 @@
-# input
-"""
-1.Current year
-2.Current month - number
-3.Current date
-4.Birth year
-5.Birth month
-6.Birth date
+# Calculate the age based on the current date and birth date by comparing years, months, and days
 
-age = ?
-
-check year, month and date
-eg: 2024 10 29
-"""
+# Input: 
+# 1. Current year, month, and date
+# 2. Birth year, month, and date
 
 current_year = int(input("Enter the current year: "))
 current_month = int(input("Enter the current month: "))

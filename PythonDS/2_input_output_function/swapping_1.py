@@ -6,8 +6,8 @@ num2 = 20
 
 # Print before swapping
 print("Before swapping")
-print("Number1 is", num1)  # Prints the value of num1
-print("Number2 is", num2)  # Prints the value of num2
+print("Number1 is", num1)  
+print("Number2 is", num2)  
 
 # Swap logic using a third variable (temp)
 temp = num1  # Store the value of num1 in temp
@@ -16,5 +16,5 @@ num2 = temp  # Assign the value stored in temp (original num1) to num2
 
 # Print after swapping
 print("\nAfter swapping")
-print("Number1 is", num1)  # Prints the new value of num1 (which is the original num2)
-print("Number2 is", num2)  # Prints the new value of num2 (which is the original num1)
+print("Number1 is", num1) 
+print("Number2 is", num2)  

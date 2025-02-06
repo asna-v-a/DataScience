@@ -1,6 +1,0 @@
-Flow Controls : Controlling program flow
-
-3 types of Flow controls
- 1. Decision-making
- 2. Looping
- 3. Jumping
