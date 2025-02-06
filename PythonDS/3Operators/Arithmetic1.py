@@ -1,8 +1,11 @@
-#sum of two numbers
+# sum of two numbers
 
-num1 = int(input("Enter the first number: ")) #variable read as integer
-num2 = int(input("Enter the Second number: "))
+# Take user input and convert it to integer using int() function
+num1 = int(input("Enter the first number: "))  # The input will be read as an integer
+num2 = int(input("Enter the Second number: "))  # The input will be read as an integer
 
-sum = num1 + num2 # without int() ,it read as string - concatenation (1 + 2 -> 12)
+# Add the two numbers
+sum = num1 + num2  # The sum of the two numbers
 
-print(num1,"+",num2,"=",sum)
+# Print the result in a readable format
+print(num1, "+", num2, "=", sum)  # Displays the sum of the numbers

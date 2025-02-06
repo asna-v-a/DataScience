@@ -1,7 +1,9 @@
-Operators
+Operators : symbol used to perform operations on variables and values, such as arithmetic, comparison, or logical manipulations.
 
 Types of operators
-1. Arithmetic Operators
-2. Relational Operators
-3. Logical Operators
-4. Compound Assignment Operators
+1. Arithmetic Operators: Used for basic mathematical operations like addition, subtraction, multiplication, etc.
+2. Relational Operators: Used to compare two values, returning True or False based on the comparison.
+3. Logical Operators: Used to combine conditional statements, returning True or False based on logical conditions.
+4. Compound Assignment Operators: Used to modify the value of a variable using an operation, e.g., +=, -=, etc.
+
+
