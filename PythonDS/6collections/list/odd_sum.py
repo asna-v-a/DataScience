@@ -1,3 +1,5 @@
+#Sum of odd numbers in a list
+
 lst = []
 
 for i in range(1, 101):

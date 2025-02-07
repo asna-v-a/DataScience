@@ -1,3 +1,4 @@
+# Function to add two numbers with argument and return type
 
 def add(num1,num2):
     sum = num1+num2

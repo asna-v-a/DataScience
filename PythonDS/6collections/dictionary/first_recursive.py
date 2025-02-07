@@ -1,3 +1,5 @@
+#Find first recurring character
+
 pattern = 'ABDFGBASDFGTFVB'
 
 dic={}

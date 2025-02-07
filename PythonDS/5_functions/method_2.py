@@ -1,3 +1,5 @@
+# Function to add two numbers with argument and no return type
+
 def add(num1,num2):
     sum = num1+num2
     print("Sum:",sum)

@@ -1,3 +1,4 @@
+# Function to calculate factorial
 #Method1
 def factorial():
     limit=int(input("Enter the limit: "))

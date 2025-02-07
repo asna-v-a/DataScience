@@ -1,3 +1,5 @@
+#Squaring elements and filtering even numbers
+
 lst = [1, 4, 6, 7, 8, 9, 15, 20]
 lst2 = []
 lst3 = []

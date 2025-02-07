@@ -1,3 +1,5 @@
+# Function to calculate cube
+
 def cube(num):
     cube=num**3
     return cube
