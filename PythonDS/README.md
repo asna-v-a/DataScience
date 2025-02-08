@@ -20,7 +20,7 @@ By going through this section, you will:
 - **Object-Oriented Programming (OOP)**: Classes, objects, methods, and constructors.  
 - **Functional Programming**: Lambda functions, map, filter, and list comprehension.
 
-## 🚀 Next Steps
+## 🎯 Next Steps
 Once you've mastered Python fundamentals, explore:
 
 📌 **EDA/** – Understanding and visualizing datasets.  

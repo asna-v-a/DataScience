@@ -11,7 +11,6 @@ object: iphone, samsung, oppo, realme, vivo, nothing,.........
 reference: call, photo, video, text,............
 
 constructor : initializing variables while creating objects
-Eg in person
 
 function in a class is called method, variables defined in a method will be instance variables
 class name starts with uppercase
