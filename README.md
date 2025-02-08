@@ -62,7 +62,7 @@ This section focuses on data visualization and analysis using Power BI:
 Learn the basics of cloud computing with AWS:
 - **AWS Basics**: IAM, EC2, S3 Storage  
 
-### **🔟 Generative AI & Advanced AI** 🚀  
+### **🔟 Generative AI & Advanced AI** 🧠
 Explore cutting-edge AI concepts:
 - **Large Language Models (LLMs)**  
 - **Stable Diffusion & Image Generation**  
