@@ -1,5 +1,5 @@
 
-f = open("C:/Users/asnav/Desktop/Task/customer1.txt",'r')
+f = open("C:/Users/asnav/Desktop/DataScience/PythonDS/7_file_operation/files/customer.txt",'r')
 
 #Dancer prof, fname, lname, age
 """

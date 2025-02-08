@@ -1,4 +1,4 @@
-f = open('wordcount', 'r')
+f = open('C:/Users/asnav/Desktop/DataScience/PythonDS/7_file_operation/files/word_count', 'r')
 dic = {}
 data=''
 for i in f:

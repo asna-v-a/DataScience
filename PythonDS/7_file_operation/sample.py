@@ -1,4 +1,4 @@
-f = open('C:/Users/asnav/Downloads/Telegram Desktop/sample4.txt', 'r')
+f = open('C:/Users/asnav/Desktop/DataScience/PythonDS/7_file_operation/files/sample_1.txt', 'r')
 
 # for i in f:
 #     print(i)

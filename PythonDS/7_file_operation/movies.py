@@ -1,4 +1,4 @@
-f = open("C:/Users/asnav/Desktop/Task/movies_cleaned_pandas.csv", 'r')
+f = open("C:/Users/asnav/Desktop/DataScience/PythonDS/7_file_operation/files/movies_cleaned_pandas.csv", 'r')
 
 count=count2 =count3=count4= 0
 row=0
@@ -134,30 +134,3 @@ print()
 #1975-2000 and rating above 3.5 total row count
 print(count4)
 print()
-"""
-6[count desc order] 
-7.[count desc order] 
-8. 2008 and rating above 3 [collect] 
-    A. row count 
- 
-9. Find duration mxm 1 movies name,year,rating,duration 
- 
-10. Find rating mnm 1 movies name,year,rating,duration 
- 
-11. Rating above 4 and relase year above 2005 
- 
-                A. Rating mxm movies full data 
- 
-                B. Rating mnm movies full data 
- 
- 
-12. 2008 movies count 
- 
- 
-13. 1975-2000 movies collect 
- 
-          A. Row count 
- 
- 
-14. 1975-2000 and rating above 3.5 total row co
-"""
