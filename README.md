@@ -70,7 +70,7 @@ Explore cutting-edge AI concepts:
 
 ## 🔥 Topics Covered
 ✅ Python Basics to Advanced  
-🔜 Exploratory Data Analysis (EDA)  
+✅ Exploratory Data Analysis (EDA)  
 🔜 Machine Learning (ML) - Supervised & Unsupervised  
 🔜 Deep Learning  
 🔜 Natural Language Processing (NLP)  
